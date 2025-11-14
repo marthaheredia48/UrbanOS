@@ -25,7 +25,10 @@ Each area is represented on an interactive map with detailed data to help identi
 - ⚙️ **Node.js** as runtime environment
 
 ---
+UrbanOS is a web platform created for the **NASA Space Apps Challenge 2025**.  
+Project page: https://www.spaceappschallenge.org/2025/find-a-team/urbanos/?tab=project
 
+---
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
